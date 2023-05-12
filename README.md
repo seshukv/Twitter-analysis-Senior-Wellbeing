@@ -1,4 +1,4 @@
-<h1>Senior Citizen Well-Being: Twitter Analysis</h1>
+<h1>Senior Citizens Well-Being: Twitter Analysis</h1>
 
 <h3>Overview</h3>
 This project aims to enhance the well-being of senior citizens by analyzing tweets related to them. The project focuses on sentiment analysis and topic modeling to gain insights into the senior citizens concerns and emotions.
